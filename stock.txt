@@ -1,0 +1,60 @@
+AMZN,Amazon
+GOOG,Google
+GOOGL,Google
+EBAY,eBay
+0700,Tencent
+BABA,Alibaba
+FB,Facebook
+PCLN,Priceline
+BIDU,Baidu
+YHOO,Yahoo
+CRM,Salesforce
+YNDX,Yandex
+AAPL,Apple
+2038,Foxconn
+BBL,HP
+BHP,HP
+IBM,IBM
+MSFT,Microsoft
+SNE,Sony
+DELL,DELL
+LPL,LG
+INTC,Intel
+SHI,Sinopec
+QCOM,Qualcomm
+MU,Micron Technology
+AMD,AMD
+TM,Toyota
+JD,jingdong
+HMC,Honda
+ORCL,Oracle
+SAP,SAP
+SYMC,Symantec
+VMW,VMware
+FISV,Fiserv
+INTU,Intuit
+TWTR,Twitter
+TSLA,TSLA
+LNKD, Linkedin
+GRPN,Groupon
+CSCO,CSCO
+SOHU,SOHU
+CYOU,chang you
+QIHU,360
+YOKU,youku
+NTES,163
+SINA,sina
+WB,weibo
+YY,yy
+WUBA,58
+VIPS,weipinhui
+DANG,dangdang
+CTRP,xiecheng
+QUNR,qunar
+LONG,yilong
+GA,juren
+GAME,shengda game
+ATHM,qiche zhijia
+LITB,lanting jishi
+JOBS,51job
+RENN,renren
